@@ -1,0 +1,62 @@
+body{
+    background-image:url(fon.jpeg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+.n{
+    font-family: 'Raleway', sans-serif;
+    text-align:center;
+    color:white;
+}
+.otstup{
+    height: 100px;    
+}
+.otstupp{
+    height: 600px;   
+}
+
+.la{
+    border: 3px solid;
+    border-color: SteelBlue;
+}
+#a{
+    font-family: 'Raleway', sans-serif;
+    text-align:center; 
+    color:white;
+}
+#b{
+    font-family: 'Raleway', sans-serif;
+    color:white;
+    text-align:center;
+    font-size:30px;
+}
+#abab{
+    position: relative;
+    left:18%;
+    top:50px;
+    border: 4px solid;
+    border-color: SteelBlue;
+    
+}
+#v{
+    position: relative;
+    left:55%;
+    top:14px;
+    border: 4px solid;
+    border-color: SteelBlue;
+}
+#vra{
+    font-family: 'Raleway', sans-serif;
+    width: 700px;
+    text-align:center;
+    color:white;
+    font-size:25px;
+    position: relative;
+    bottom: 380px;
+    left:50px;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-color:SteelBlue;
+    
+}
