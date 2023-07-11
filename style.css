@@ -54,7 +54,7 @@ header{
     border-color: SteelBlue;
     border-radius: 20px;
     overflow: hidden;
-    animation: name1 3s 1;
+    animation: anim1 3s 1;
 }
 #vra{
     font-family: 'Raleway', sans-serif;
