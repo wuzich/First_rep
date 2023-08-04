@@ -70,7 +70,7 @@ header{
     border-color:SteelBlue;
     
 }
-input:checked~main{
+input:checked~*{
     background-color: grey;
 }
 @keyframes anim1 {
