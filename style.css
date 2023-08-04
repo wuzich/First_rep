@@ -73,6 +73,9 @@ header{
 input:checked~*{
     background-color: grey;
 }
+input:checked~body{
+    background-image:url("fon1.jpg")
+}
 @keyframes anim1 {
     0%{
         transform:scale(0);
